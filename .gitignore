@@ -1,3 +1,4 @@
 # Ignore environment files
 client/.env
 server/.env
+client/node_modules
